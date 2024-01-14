@@ -1,4 +1,4 @@
-#Frontend learnable assignment
+#Frontend learnable assignment.
 
 ##What is version control?
 - Version control, also known as source control, is the practice of tracking and managing changes to software code.
