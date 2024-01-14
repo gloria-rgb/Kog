@@ -31,9 +31,4 @@ git rebase -- continue:	Continue with the changes that you made.
 
 ##Git cherry-pick
 - Git cherry-pick is a Git command that allows you to select and apply individual commits from one branch to another. 
-- This can be useful for a number of reasons, such as: To fix a bug in a previous release: If you find a bug in a previous release, you can use cherry-pick to apply the fix to the current release.
-
-##command line for cherry pick.
 - git cherry-pick --name
-
-Thank you for reading!
